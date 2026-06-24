@@ -1,0 +1,17 @@
++s@https://marderswetson.github.io/mw-data-fetch/g/Player.sprite3¨ +s@https://marderswetson.github.io/mw-data-fetch/g/Jump_Particles.sprite3¨
+
+
+
+
+
+
+
+
+
+
+# s = Sprite
+# c = Costume
+# t = Text
+# u = Update location
+# + = Beginning of line
+# ¨ = End of line
